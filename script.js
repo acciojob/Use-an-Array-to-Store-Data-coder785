@@ -1,3 +1,1 @@
-
-let yourArray = ["string", 1, false, true,undefined];
-console.log(yourArray);
+let yourArray=[1,'acciojob',true,'one','javascript'];
